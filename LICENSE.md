@@ -1,4 +1,4 @@
-# 
+# Élite QueryNeural descargador. Descarga e instala con compatibilidad con Python y interfaz amigable — rápido, seguro y fácil de usar.
 
 
 
